@@ -1,1 +1,0 @@
-Method <co.xapuka.demo.archunit.app.main.bmodule.BService.bServiceMethod()> calls method <co.xapuka.demo.archunit.share.amodule.ModuleUtils.doSomething()> in (BService.java:8)
